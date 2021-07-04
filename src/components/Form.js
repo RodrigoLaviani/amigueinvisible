@@ -1,6 +1,6 @@
 import Button from "./Button"
 import Input from "./Input"
-import '../shared/styles/form.css'
+import '../assets/styles/form.css'
 
 const Form = ({ className }) => {
 

@@ -1,5 +1,5 @@
 import Button from "./Button"
-import '../shared/styles/participant.css'
+import '../assets/styles/participant.css'
 
 const Participant = ({ name, mail }) => {
     return (

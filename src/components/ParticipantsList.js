@@ -1,5 +1,5 @@
 import Button from "./Button"
-import '../shared/styles/participantsList.css'
+import '../assets/styles/participantsList.css'
 import { DataGrid } from '@material-ui/data-grid';
 
 const ParticipantsList = ({ className }) => {

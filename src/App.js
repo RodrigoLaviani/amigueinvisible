@@ -1,5 +1,5 @@
 import { Header, Form, ParticipantsList, Footer } from './components/index';
-import './shared/styles/app.css'
+import './assets/styles/app.css'
 
 const App = () => {
     return (
