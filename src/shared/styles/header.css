@@ -1,0 +1,9 @@
+.headerTitle {
+    justify-content: center;
+    display: flex;
+    padding-top: 4%;
+}
+
+.headerSubtitle {
+    margin-top: -7%;
+}

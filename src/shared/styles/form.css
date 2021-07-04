@@ -1,0 +1,38 @@
+.inputContainer {
+    margin-right: 2%;
+    padding: 1%;
+}
+
+.inputClass {
+    height: 26px;
+    border-radius: 9%;
+    border: 2px solid bisque;
+    color: bisque;
+    background-color: transparent;
+    font-weight: 600;
+}
+
+.buttonContainer {
+    padding: 1%
+}
+
+.buttonClass {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 7px 18px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+.buttonClass:hover {
+    background-color: white;
+    color: #4CAF50;
+}
